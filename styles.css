@@ -267,18 +267,18 @@ img {
 }
 
 .dot.bus {
-    top: 45%;
-    left: 50%
+    top: 35%;
+    right: 40%
 }
 
-.dot.solar {
-    right: 10%;
-    bottom: 48%;
+.dot.car {
+    left: 45%;
+    top: 40%;
 }
 
-.dot.wheels {
-  bottom: 19%;
-  right: 25%;
+.dot.both {
+  top: 40%;
+  right: 45%;
 }
 
 /*****************************
